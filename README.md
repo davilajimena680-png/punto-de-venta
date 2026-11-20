@@ -69,3 +69,22 @@ Verde: se implementa el control de existencias y la prueba pasa.
 
 ![Carrito existencias verde](access/carrito-existencias-verde.png)
 
+--
+### Pantallas funcionando
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/5dcc12de-da7d-4624-9430-d561686be0bd" />
+    </td>
+    <td align="center">
+     <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/efbf8faa-ca96-4656-9d81-1f4546e1126c" />
+    </td>
+    <td align="center">
+      <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/021bd390-0f51-495e-9417-53df9ec27fe6" />
+    </td>
+  </tr>
+</table>
+
+
+
+
